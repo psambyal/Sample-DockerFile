@@ -1,4 +1,4 @@
-FROM dockerhub.rnd.amadeus.net:5000/ubuntu:trusty
+FROM dockerhub.***.****.net:5000/ubuntu:trusty
 
 ENV SONAR_RUNNER_VERSION=2.4
 
